@@ -1,0 +1,13 @@
+{
+    "name": "drupal/grid_field_formatter",
+    "type": "drupal-module",
+    "description": "Grid Field Formatter",
+    "keywords": [
+    ],
+    "homepage": "https://github.com/dclause/grid_field_formatter",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/dclause/grid_field_formatter/issues",
+        "source": "https://github.com/dclause/grid_field_formatter"
+    }
+}
